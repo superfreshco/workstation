@@ -1,5 +1,5 @@
 package 'cowsay' do
-	action :install 
+action :install 
 end
 package 'tree' do 
   action :install
